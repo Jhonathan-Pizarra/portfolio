@@ -372,6 +372,12 @@ span {
     width: 20px !important;
 }
 
+.contact-social {
+    width: 25px;
+    height: 25px;
+
+}
+
 .bg-gray {
     background-color: #f2f2f2;
 }
@@ -1396,9 +1402,23 @@ section.portfolio .portfolio-items .item .item-content:hover .item-overlay .icon
 
 
 /*============ 12. Footer  ============*/
-
 footer {
     background: #222;
+}
+
+footer .mylogo {
+    height: 150px;
+    width: auto;
+}
+
+footer .overview {
+    color: #fff;
+}
+
+footer .text {
+    text-align: justify;
+    line-height: 20px;
+    color: #fff;
 }
 
 footer .contact-info h5 {
