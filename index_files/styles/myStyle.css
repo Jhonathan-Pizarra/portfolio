@@ -1362,11 +1362,11 @@ section.portfolio .portfolio-items .item .item-content:hover .item-overlay .icon
     font-size: 15px;
 }
 
-.contact #contact-form .form-group {
+.contact .contact-form .form-group {
     margin-bottom: 24px;
 }
 
-.contact #contact-form .form-group .form-control {
+.contact .contact-form .form-group .form-control {
     font-size: 14px;
     font-family: "Open Sans", sans-serif;
     -webkit-box-shadow: none;
@@ -1382,18 +1382,18 @@ section.portfolio .portfolio-items .item .item-content:hover .item-overlay .icon
     transition: all .4s ease;
 }
 
-.contact #contact-form .form-group textarea.form-control {
+.contact .contact-form .form-group textarea.form-control {
     height: auto;
     resize: none;
 }
 
-.contact #contact-form .form-group .con-error {
+.contact .contact-form .form-group .con-error {
     border-color: red;
 }
 
-.contact #contact-form .form-control:hover,
-.contact #contact-form .form-control:active,
-.contact #contact-form .form-control:focus {
+.contact .contact-form .form-control:hover,
+.contact .contact-form .form-control:active,
+.contact .contact-form .form-control:focus {
     -webkit-box-shadow: none;
     -moz-webkit-box-shadow: none;
     box-shadow: none;
